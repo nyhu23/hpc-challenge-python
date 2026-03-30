@@ -1,0 +1,4782 @@
+[
+    {
+        "crop": "citrus",
+        "pest": "adris tyrannus",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "citrus",
+        "pest": "adris tyrannus",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "citrus",
+        "pest": "adris tyrannus",
+        "pesticide": "Permethrin"
+    },
+    {
+        "crop": "apple",
+        "pest": "adris tyrannus",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "apple",
+        "pest": "adris tyrannus",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "apple",
+        "pest": "adris tyrannus",
+        "pesticide": "Permethrin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "adris tyrannus",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "grapes",
+        "pest": "adris tyrannus",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "grapes",
+        "pest": "adris tyrannus",
+        "pesticide": "Permethrin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "tea",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "tea",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "tea",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rose",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rose",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "rose",
+        "pest": "aleurocanthus spiniferus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "cotton",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "soybean",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "soybean",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "soybean",
+        "pest": "alfalfa plant bug",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "clover",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "clover",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "clover",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "alfalfa seed chalcid",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa weevil",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa weevil",
+        "pesticide": "Cyfluthrin"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "alfalfa weevil",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "clover",
+        "pest": "alfalfa weevil",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "clover",
+        "pest": "alfalfa weevil",
+        "pesticide": "Cyfluthrin"
+    },
+    {
+        "crop": "clover",
+        "pest": "alfalfa weevil",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "alfalfa weevil",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "alfalfa weevil",
+        "pesticide": "Cyfluthrin"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "alfalfa weevil",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "grapes",
+        "pest": "ampelophaga",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grapes",
+        "pest": "ampelophaga",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "grapes",
+        "pest": "ampelophaga",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "ampelophaga",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "ampelophaga",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "ampelophaga",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "leafy vines",
+        "pest": "ampelophaga",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "leafy vines",
+        "pest": "ampelophaga",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "leafy vines",
+        "pest": "ampelophaga",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "aphids",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "aphids",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "aphids",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "potato",
+        "pest": "aphids",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "potato",
+        "pest": "aphids",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "potato",
+        "pest": "aphids",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "aphids",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "aphids",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "aphids",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "citrus",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Afidopyropen"
+    },
+    {
+        "crop": "citrus",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "apple",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "apple",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Afidopyropen"
+    },
+    {
+        "crop": "apple",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "pear",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "pear",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Afidopyropen"
+    },
+    {
+        "crop": "pear",
+        "pest": "aphis citricola vander goot",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "cotton",
+        "pest": "apolygus lucorum",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "apolygus lucorum",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "cotton",
+        "pest": "apolygus lucorum",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "apple",
+        "pest": "apolygus lucorum",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "apple",
+        "pest": "apolygus lucorum",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "apple",
+        "pest": "apolygus lucorum",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grapes",
+        "pest": "apolygus lucorum",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "apolygus lucorum",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grapes",
+        "pest": "apolygus lucorum",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "armyworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "armyworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "armyworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "rice",
+        "pest": "armyworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "rice",
+        "pest": "armyworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "rice",
+        "pest": "armyworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "wheat",
+        "pest": "armyworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "armyworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "armyworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "beet army worm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "beet army worm",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "beet army worm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cotton",
+        "pest": "beet army worm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "cotton",
+        "pest": "beet army worm",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "cotton",
+        "pest": "beet army worm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "tomato",
+        "pest": "beet army worm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "tomato",
+        "pest": "beet army worm",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "tomato",
+        "pest": "beet army worm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet fly",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet fly",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet fly",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "spinach",
+        "pest": "beet fly",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "spinach",
+        "pest": "beet fly",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "spinach",
+        "pest": "beet fly",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet fly",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet fly",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet fly",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet spot flies",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet spot flies",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet spot flies",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "spinach",
+        "pest": "beet spot flies",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "spinach",
+        "pest": "beet spot flies",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "spinach",
+        "pest": "beet spot flies",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet spot flies",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet spot flies",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet spot flies",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet weevil",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet weevil",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "beet weevil",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet weevil",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet weevil",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "beetroot",
+        "pest": "beet weevil",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "sunflower",
+        "pest": "beet weevil",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "sunflower",
+        "pest": "beet weevil",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "sunflower",
+        "pest": "beet weevil",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "potato",
+        "pest": "beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "potato",
+        "pest": "beetle",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "potato",
+        "pest": "beetle",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "beetle",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "beetle",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "beetle",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "beetle",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "barley",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "barley",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "barley",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "oats",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "oats",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "oats",
+        "pest": "bird cherry oataphid",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "maize",
+        "pest": "black cutworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "black cutworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "black cutworm",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "black cutworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "black cutworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "black cutworm",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "black cutworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "black cutworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "black cutworm",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "blister beetle",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "blister beetle",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "blister beetle",
+        "pesticide": "Acetamiprid\""
+    },
+    {
+        "crop": "soybean",
+        "pest": "blister beetle",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "soybean",
+        "pest": "blister beetle",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "soybean",
+        "pest": "blister beetle",
+        "pesticide": "Acetamiprid\""
+    },
+    {
+        "crop": "groundnut",
+        "pest": "blister beetle",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "groundnut",
+        "pest": "blister beetle",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "groundnut",
+        "pest": "blister beetle",
+        "pesticide": "Acetamiprid\""
+    },
+    {
+        "crop": "cotton",
+        "pest": "bollworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "cotton",
+        "pest": "bollworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "cotton",
+        "pest": "bollworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cotton",
+        "pest": "bollworm",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "tomato",
+        "pest": "bollworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "tomato",
+        "pest": "bollworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "tomato",
+        "pest": "bollworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "tomato",
+        "pest": "bollworm",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "maize",
+        "pest": "bollworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "bollworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "maize",
+        "pest": "bollworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "bollworm",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "cyflumetofen"
+    },
+    {
+        "crop": "citrus",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "Fenpyroximate"
+    },
+    {
+        "crop": "citrus",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "milbemectin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "cyflumetofen"
+    },
+    {
+        "crop": "grapes",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "Fenpyroximate"
+    },
+    {
+        "crop": "grapes",
+        "pest": "brevipalpus lewisi",
+        "pesticide": "milbemectin"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "cabbage army worm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "cabbage army worm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "cabbage army worm",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "cabbage army worm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "cauliflower",
+        "pest": "cabbage army worm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "cauliflower",
+        "pest": "cabbage army worm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cauliflower",
+        "pest": "cabbage army worm",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "cauliflower",
+        "pest": "cabbage army worm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "broccoli",
+        "pest": "cabbage army worm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "broccoli",
+        "pest": "cabbage army worm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "broccoli",
+        "pest": "cabbage army worm",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "broccoli",
+        "pest": "cabbage army worm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "citrus",
+        "pest": "ceroplastes rubens",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "citrus",
+        "pest": "ceroplastes rubens",
+        "pesticide": "pyriproxyfen"
+    },
+    {
+        "crop": "tea",
+        "pest": "ceroplastes rubens",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "tea",
+        "pest": "ceroplastes rubens",
+        "pesticide": "pyriproxyfen"
+    },
+    {
+        "crop": "ornamental plants",
+        "pest": "ceroplastes rubens",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "ornamental plants",
+        "pest": "ceroplastes rubens",
+        "pesticide": "pyriproxyfen"
+    },
+    {
+        "crop": "rice",
+        "pest": "cicadella viridis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "cicadella viridis",
+        "pesticide": "Thiacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "cicadella viridis",
+        "pesticide": "Dinotefuran"
+    },
+    {
+        "crop": "rice",
+        "pest": "cicadella viridis",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "wheat",
+        "pest": "cicadella viridis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "cicadella viridis",
+        "pesticide": "Thiacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "cicadella viridis",
+        "pesticide": "Dinotefuran"
+    },
+    {
+        "crop": "wheat",
+        "pest": "cicadella viridis",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "grasses",
+        "pest": "cicadella viridis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "cicadella viridis",
+        "pesticide": "Thiacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "cicadella viridis",
+        "pesticide": "Dinotefuran"
+    },
+    {
+        "crop": "grasses",
+        "pest": "cicadella viridis",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "grapes",
+        "pest": "colomerus vitis",
+        "pesticide": "milbemectin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "colomerus vitis",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "colomerus vitis",
+        "pesticide": "milbemectin"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "colomerus vitis",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "ornamental vines",
+        "pest": "colomerus vitis",
+        "pesticide": "milbemectin"
+    },
+    {
+        "crop": "ornamental vines",
+        "pest": "colomerus vitis",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "maize",
+        "pest": "corn borer",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "corn borer",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "maize",
+        "pest": "corn borer",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "pepper",
+        "pest": "corn borer",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "pepper",
+        "pest": "corn borer",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "pepper",
+        "pest": "corn borer",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "potato",
+        "pest": "corn borer",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "potato",
+        "pest": "corn borer",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "potato",
+        "pest": "corn borer",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "corn earworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "corn earworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "maize",
+        "pest": "corn earworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "tomato",
+        "pest": "corn earworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "tomato",
+        "pest": "corn earworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "tomato",
+        "pest": "corn earworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cotton",
+        "pest": "corn earworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "cotton",
+        "pest": "corn earworm",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "cotton",
+        "pest": "corn earworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "cutworm",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "maize",
+        "pest": "cutworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "cutworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "cutworm",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "cutworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "cutworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "cutworm",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "cutworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "cutworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "mango",
+        "pest": "dacus dorsalis",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "mango",
+        "pest": "dacus dorsalis",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "mango",
+        "pest": "dacus dorsalis",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "dacus dorsalis",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "citrus",
+        "pest": "dacus dorsalis",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "dacus dorsalis",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "guava",
+        "pest": "dacus dorsalis",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "guava",
+        "pest": "dacus dorsalis",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "guava",
+        "pest": "dacus dorsalis",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "dasineura sp",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "wheat",
+        "pest": "dasineura sp",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "dasineura sp",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "dasineura sp",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "rice",
+        "pest": "dasineura sp",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "rice",
+        "pest": "dasineura sp",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "rice",
+        "pest": "dasineura sp",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "rice",
+        "pest": "dasineura sp",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "barley",
+        "pest": "dasineura sp",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "barley",
+        "pest": "dasineura sp",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "barley",
+        "pest": "dasineura sp",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "barley",
+        "pest": "dasineura sp",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "wheat",
+        "pest": "english grain aphid",
+        "pesticide": "flupyradifurone"
+    },
+    {
+        "crop": "wheat",
+        "pest": "english grain aphid",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "english grain aphid",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "barley",
+        "pest": "english grain aphid",
+        "pesticide": "flupyradifurone"
+    },
+    {
+        "crop": "barley",
+        "pest": "english grain aphid",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "barley",
+        "pest": "english grain aphid",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "oat",
+        "pest": "english grain aphid",
+        "pesticide": "flupyradifurone"
+    },
+    {
+        "crop": "oat",
+        "pest": "english grain aphid",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "oat",
+        "pest": "english grain aphid",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "maize",
+        "pest": "fall armyworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "maize",
+        "pest": "fall armyworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "fall armyworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "rice",
+        "pest": "fall armyworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "rice",
+        "pest": "fall armyworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "rice",
+        "pest": "fall armyworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "apple",
+        "pest": "fall webworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "apple",
+        "pest": "fall webworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "apple",
+        "pest": "fall webworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "ornamental trees",
+        "pest": "fall webworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "ornamental trees",
+        "pest": "fall webworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "ornamental trees",
+        "pest": "fall webworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "fall webworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "fall webworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "fall webworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "flax",
+        "pest": "flax budworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "flax",
+        "pest": "flax budworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "flax",
+        "pest": "flax budworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "legumes",
+        "pest": "flax budworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "legumes",
+        "pest": "flax budworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "legumes",
+        "pest": "flax budworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "herbaceous plants",
+        "pest": "flax budworm",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "herbaceous plants",
+        "pest": "flax budworm",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "herbaceous plants",
+        "pest": "flax budworm",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "flea beetle",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "flea beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "flea beetle",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "potato",
+        "pest": "flea beetle",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "potato",
+        "pest": "flea beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "potato",
+        "pest": "flea beetle",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "rapeseed",
+        "pest": "flea beetle",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "rapeseed",
+        "pest": "flea beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "rapeseed",
+        "pest": "flea beetle",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "citrus",
+        "pest": "fruit piercing moth",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "fruit piercing moth",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "fruit piercing moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "apple",
+        "pest": "fruit piercing moth",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "apple",
+        "pest": "fruit piercing moth",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "apple",
+        "pest": "fruit piercing moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "grapes",
+        "pest": "fruit piercing moth",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "fruit piercing moth",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "fruit piercing moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "rice",
+        "pest": "gall fly",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "rice",
+        "pest": "gall fly",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "rice",
+        "pest": "gall fly",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "gall fly",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "gall fly",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "gall fly",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "barley",
+        "pest": "gall fly",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "barley",
+        "pest": "gall fly",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "barley",
+        "pest": "gall fly",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "grain thrips",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "grain thrips",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "grain thrips",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "barley",
+        "pest": "grain thrips",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "barley",
+        "pest": "grain thrips",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "barley",
+        "pest": "grain thrips",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "oats",
+        "pest": "grain thrips",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "oats",
+        "pest": "grain thrips",
+        "pesticide": "Cyantraniliprole"
+    },
+    {
+        "crop": "oats",
+        "pest": "grain thrips",
+        "pesticide": "Pyrethrins"
+    },
+    {
+        "crop": "wheat",
+        "pest": "green aphid bug",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "green aphid bug",
+        "pesticide": "flupyradifurone"
+    },
+    {
+        "crop": "wheat",
+        "pest": "green aphid bug",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "barley",
+        "pest": "green aphid bug",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "barley",
+        "pest": "green aphid bug",
+        "pesticide": "flupyradifurone"
+    },
+    {
+        "crop": "barley",
+        "pest": "green aphid bug",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "oats",
+        "pest": "green aphid bug",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "oats",
+        "pest": "green aphid bug",
+        "pesticide": "flupyradifurone"
+    },
+    {
+        "crop": "oats",
+        "pest": "green aphid bug",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "maize",
+        "pest": "grub",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "maize",
+        "pest": "grub",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "maize",
+        "pest": "grub",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "potato",
+        "pest": "grub",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "potato",
+        "pest": "grub",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "potato",
+        "pest": "grub",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "grasses",
+        "pest": "grub",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "grasses",
+        "pest": "grub",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "grasses",
+        "pest": "grub",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "citrus",
+        "pest": "icerya purchasi maskell",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "citrus",
+        "pest": "icerya purchasi maskell",
+        "pesticide": "Horticultural oil"
+    },
+    {
+        "crop": "citrus",
+        "pest": "icerya purchasi maskell",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "icerya purchasi maskell",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "icerya purchasi maskell",
+        "pesticide": "Horticultural oil"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "icerya purchasi maskell",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "jute",
+        "pest": "jute aphid",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "jute",
+        "pest": "jute aphid",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "jute",
+        "pest": "jute aphid",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "cotton",
+        "pest": "jute aphid",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "jute aphid",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "jute aphid",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "potato",
+        "pest": "leaf beetle",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "potato",
+        "pest": "leaf beetle",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "potato",
+        "pest": "leaf beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "leaf beetle",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "leaf beetle",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "leaf beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "wheat",
+        "pest": "leaf beetle",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "leaf beetle",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "leaf beetle",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "coconut",
+        "pest": "limacodidae",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "coconut",
+        "pest": "limacodidae",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "coconut",
+        "pest": "limacodidae",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "tea",
+        "pest": "limacodidae",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "tea",
+        "pest": "limacodidae",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "tea",
+        "pest": "limacodidae",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "limacodidae",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "limacodidae",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "limacodidae",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "locust",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "locust",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "maize",
+        "pest": "locust",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "wheat",
+        "pest": "locust",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "wheat",
+        "pest": "locust",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "locust",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "locust",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "locust",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "locust",
+        "pesticide": "bacillus thuringiensis"
+    },
+    {
+        "crop": "maize",
+        "pest": "locustoidea",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "maize",
+        "pest": "locustoidea",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "maize",
+        "pest": "locustoidea",
+        "pesticide": "Azadirachtin\""
+    },
+    {
+        "crop": "wheat",
+        "pest": "locustoidea",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "locustoidea",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "locustoidea",
+        "pesticide": "Azadirachtin\""
+    },
+    {
+        "crop": "vegetables",
+        "pest": "locustoidea",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "locustoidea",
+        "pesticide": "Deltamethrin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "locustoidea",
+        "pesticide": "Azadirachtin\""
+    },
+    {
+        "crop": "cotton",
+        "pest": "long legged spider mite",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "long legged spider mite",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "long legged spider mite",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "tomato",
+        "pest": "long legged spider mite",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "tomato",
+        "pest": "long legged spider mite",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "tomato",
+        "pest": "long legged spider mite",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "beans",
+        "pest": "long legged spider mite",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "beans",
+        "pest": "long legged spider mite",
+        "pesticide": "Azadirachtin"
+    },
+    {
+        "crop": "beans",
+        "pest": "long legged spider mite",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "grapes",
+        "pest": "lycorma delicatula",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "grapes",
+        "pest": "lycorma delicatula",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "lycorma delicatula",
+        "pesticide": "Deltamethrin\""
+    },
+    {
+        "crop": "apple",
+        "pest": "lycorma delicatula",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "apple",
+        "pest": "lycorma delicatula",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "apple",
+        "pest": "lycorma delicatula",
+        "pesticide": "Deltamethrin\""
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "lycorma delicatula",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "lycorma delicatula",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "lycorma delicatula",
+        "pesticide": "Deltamethrin\""
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "meadow moth",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "meadow moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "sugar beet",
+        "pest": "meadow moth",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "sunflower",
+        "pest": "meadow moth",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "sunflower",
+        "pest": "meadow moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "sunflower",
+        "pest": "meadow moth",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "soybean",
+        "pest": "meadow moth",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "soybean",
+        "pest": "meadow moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "soybean",
+        "pest": "meadow moth",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "citrus",
+        "pest": "mealybug",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "citrus",
+        "pest": "mealybug",
+        "pesticide": "Horticultural oil"
+    },
+    {
+        "crop": "citrus",
+        "pest": "mealybug",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "grapes",
+        "pest": "mealybug",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "grapes",
+        "pest": "mealybug",
+        "pesticide": "Horticultural oil"
+    },
+    {
+        "crop": "grapes",
+        "pest": "mealybug",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "mealybug",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "mealybug",
+        "pesticide": "Horticultural oil"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "mealybug",
+        "pesticide": "Flonicamid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "miridae",
+        "pesticide": "Buprofezin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "miridae",
+        "pesticide": "Clothianidin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "miridae",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "apple",
+        "pest": "miridae",
+        "pesticide": "Buprofezin"
+    },
+    {
+        "crop": "apple",
+        "pest": "miridae",
+        "pesticide": "Clothianidin"
+    },
+    {
+        "crop": "apple",
+        "pest": "miridae",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "miridae",
+        "pesticide": "Buprofezin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "miridae",
+        "pesticide": "Clothianidin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "miridae",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "tomato",
+        "pest": "mites",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "tomato",
+        "pest": "mites",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "tomato",
+        "pest": "mites",
+        "pesticide": "Chlorfenapyr"
+    },
+    {
+        "crop": "cotton",
+        "pest": "mites",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "mites",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "cotton",
+        "pest": "mites",
+        "pesticide": "Chlorfenapyr"
+    },
+    {
+        "crop": "beans",
+        "pest": "mites",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "beans",
+        "pest": "mites",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "beans",
+        "pest": "mites",
+        "pesticide": "Chlorfenapyr"
+    },
+    {
+        "crop": "maize",
+        "pest": "mole cricket",
+        "pesticide": "Bifenthrin"
+    },
+    {
+        "crop": "maize",
+        "pest": "mole cricket",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "maize",
+        "pest": "mole cricket",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "mole cricket",
+        "pesticide": "Bifenthrin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "mole cricket",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "mole cricket",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "mole cricket",
+        "pesticide": "Bifenthrin"
+    },
+    {
+        "crop": "grasses",
+        "pest": "mole cricket",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "grasses",
+        "pest": "mole cricket",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "coconut",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "coconut",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "coconut",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Dinotefuran"
+    },
+    {
+        "crop": "banana",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "banana",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "banana",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Dinotefuran"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "nipaecoccus vastalor",
+        "pesticide": "Dinotefuran"
+    },
+    {
+        "crop": "beans",
+        "pest": "odontothrips loti",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "beans",
+        "pest": "odontothrips loti",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "beans",
+        "pest": "odontothrips loti",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "clover",
+        "pest": "odontothrips loti",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "clover",
+        "pest": "odontothrips loti",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "clover",
+        "pest": "odontothrips loti",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "odontothrips loti",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "odontothrips loti",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "odontothrips loti",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "oides decempunctata",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "oides decempunctata",
+        "pesticide": "Chlorfenapyr"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "oides decempunctata",
+        "pesticide": "Pyridaben"
+    },
+    {
+        "crop": "legumes",
+        "pest": "oides decempunctata",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "legumes",
+        "pest": "oides decempunctata",
+        "pesticide": "Chlorfenapyr"
+    },
+    {
+        "crop": "legumes",
+        "pest": "oides decempunctata",
+        "pesticide": "Pyridaben"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "oides decempunctata",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "oides decempunctata",
+        "pesticide": "Chlorfenapyr"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "oides decempunctata",
+        "pesticide": "Pyridaben"
+    },
+    {
+        "crop": "rice",
+        "pest": "paddy stem maggot",
+        "pesticide": "Carbofuran"
+    },
+    {
+        "crop": "rice",
+        "pest": "paddy stem maggot",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rice",
+        "pest": "paddy stem maggot",
+        "pesticide": "Diazinon"
+    },
+    {
+        "crop": "grasses",
+        "pest": "paddy stem maggot",
+        "pesticide": "Carbofuran"
+    },
+    {
+        "crop": "grasses",
+        "pest": "paddy stem maggot",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grasses",
+        "pest": "paddy stem maggot",
+        "pesticide": "Diazinon"
+    },
+    {
+        "crop": "maize",
+        "pest": "paddy stem maggot",
+        "pesticide": "Carbofuran"
+    },
+    {
+        "crop": "maize",
+        "pest": "paddy stem maggot",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "paddy stem maggot",
+        "pesticide": "Diazinon"
+    },
+    {
+        "crop": "citrus",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "citrus",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Spirodiclofen"
+    },
+    {
+        "crop": "citrus",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Pyridaben"
+    },
+    {
+        "crop": "lemon",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "lemon",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Spirodiclofen"
+    },
+    {
+        "crop": "lemon",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Pyridaben"
+    },
+    {
+        "crop": "orange",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "orange",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Spirodiclofen"
+    },
+    {
+        "crop": "orange",
+        "pest": "panonchus citri mcgregor",
+        "pesticide": "Pyridaben"
+    },
+    {
+        "crop": "citrus",
+        "pest": "papilio xuthus",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "citrus",
+        "pest": "papilio xuthus",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "citrus",
+        "pest": "papilio xuthus",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "lemon",
+        "pest": "papilio xuthus",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "lemon",
+        "pest": "papilio xuthus",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "lemon",
+        "pest": "papilio xuthus",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "orange",
+        "pest": "papilio xuthus",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "orange",
+        "pest": "papilio xuthus",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "orange",
+        "pest": "papilio xuthus",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "parathrene regalis",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "parathrene regalis",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "parathrene regalis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "stone fruits",
+        "pest": "parathrene regalis",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "stone fruits",
+        "pest": "parathrene regalis",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "stone fruits",
+        "pest": "parathrene regalis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "parathrene regalis",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "parathrene regalis",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "parathrene regalis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "citrus",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "lemon",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "lemon",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "lemon",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "orange",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "orange",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "orange",
+        "pest": "parlatoria zizyphus lucus",
+        "pesticide": "Spirotetramat"
+    },
+    {
+        "crop": "peach",
+        "pest": "peach borer",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "peach",
+        "pest": "peach borer",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "peach",
+        "pest": "peach borer",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "cherry",
+        "pest": "peach borer",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "cherry",
+        "pest": "peach borer",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cherry",
+        "pest": "peach borer",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "plum",
+        "pest": "peach borer",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "plum",
+        "pest": "peach borer",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "plum",
+        "pest": "peach borer",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "penthaleus major",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "penthaleus major",
+        "pesticide": "Fenpropathrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "penthaleus major",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "barley",
+        "pest": "penthaleus major",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "barley",
+        "pest": "penthaleus major",
+        "pesticide": "Fenpropathrin"
+    },
+    {
+        "crop": "barley",
+        "pest": "penthaleus major",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "oats",
+        "pest": "penthaleus major",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "oats",
+        "pest": "penthaleus major",
+        "pesticide": "Fenpropathrin"
+    },
+    {
+        "crop": "oats",
+        "pest": "penthaleus major",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "citrus",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "lemon",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "lemon",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "lemon",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "orange",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "orange",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "orange",
+        "pest": "phyllocoptes oleiverus ashmead",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "pieris canidia",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "pieris canidia",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "pieris canidia",
+        "pesticide": "Neem oil"
+    },
+    {
+        "crop": "cauliflower",
+        "pest": "pieris canidia",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "cauliflower",
+        "pest": "pieris canidia",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "cauliflower",
+        "pest": "pieris canidia",
+        "pesticide": "Neem oil"
+    },
+    {
+        "crop": "broccoli",
+        "pest": "pieris canidia",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "broccoli",
+        "pest": "pieris canidia",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "broccoli",
+        "pest": "pieris canidia",
+        "pesticide": "Neem oil"
+    },
+    {
+        "crop": "chickpea",
+        "pest": "pod borer",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "chickpea",
+        "pest": "pod borer",
+        "pesticide": "Indoxacarb"
+    },
+    {
+        "crop": "chickpea",
+        "pest": "pod borer",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cotton",
+        "pest": "pod borer",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "cotton",
+        "pest": "pod borer",
+        "pesticide": "Indoxacarb"
+    },
+    {
+        "crop": "cotton",
+        "pest": "pod borer",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "tomato",
+        "pest": "pod borer",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "tomato",
+        "pest": "pod borer",
+        "pesticide": "Indoxacarb"
+    },
+    {
+        "crop": "tomato",
+        "pest": "pod borer",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "chilli",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "chilli",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "chilli",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "cotton",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "cotton",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "tomato",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "tomato",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "tomato",
+        "pest": "polyphagotars onemus latus",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "grapes",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "grapes",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "grapes",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "apple",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "apple",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "apple",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "stone fruits",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "stone fruits",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "stone fruits",
+        "pest": "potosiabre vitarsis",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "soybean",
+        "pest": "prodenia litura",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "soybean",
+        "pest": "prodenia litura",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "soybean",
+        "pest": "prodenia litura",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cotton",
+        "pest": "prodenia litura",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "cotton",
+        "pest": "prodenia litura",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "cotton",
+        "pest": "prodenia litura",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "prodenia litura",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "prodenia litura",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "prodenia litura",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "apple",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "apple",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Bifenthrin"
+    },
+    {
+        "crop": "apple",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grapes",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "grapes",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Bifenthrin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Bifenthrin"
+    },
+    {
+        "crop": "citrus",
+        "pest": "pseudococcus comstocki kuwana",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "tomato",
+        "pest": "red spider",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "tomato",
+        "pest": "red spider",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "tomato",
+        "pest": "red spider",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "cotton",
+        "pest": "red spider",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "red spider",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "cotton",
+        "pest": "red spider",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "beans",
+        "pest": "red spider",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "beans",
+        "pest": "red spider",
+        "pesticide": "Bifenazate"
+    },
+    {
+        "crop": "beans",
+        "pest": "red spider",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "rhytidodera bowringii",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice gall midge",
+        "pesticide": "Cartap hydrochloride"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice gall midge",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice gall midge",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice gall midge",
+        "pesticide": "Cartap hydrochloride"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice gall midge",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice gall midge",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "wild rice",
+        "pest": "rice gall midge",
+        "pesticide": "Cartap hydrochloride"
+    },
+    {
+        "crop": "wild rice",
+        "pest": "rice gall midge",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wild rice",
+        "pest": "rice gall midge",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Cartap hydrochloride"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Cartap hydrochloride"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Cartap hydrochloride"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leaf caterpillar",
+        "pesticide": "Emamectin benzoate"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leaf roller",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leaf roller",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leaf roller",
+        "pesticide": "Indoxacarb"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leaf roller",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leaf roller",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leaf roller",
+        "pesticide": "Indoxacarb"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leaf roller",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leaf roller",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leaf roller",
+        "pesticide": "Indoxacarb"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leafhopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leafhopper",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice leafhopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leafhopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leafhopper",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice leafhopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leafhopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leafhopper",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice leafhopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice shell pest",
+        "pesticide": "Cartap"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice shell pest",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice shell pest",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice shell pest",
+        "pesticide": "Cartap"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice shell pest",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice shell pest",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice shell pest",
+        "pesticide": "Cartap"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice shell pest",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice shell pest",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice stemfly",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice stemfly",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice stemfly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice stemfly",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice stemfly",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice stemfly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice stemfly",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice stemfly",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "maize",
+        "pest": "rice stemfly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice water weevil",
+        "pesticide": "Carbofuran"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice water weevil",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rice",
+        "pest": "rice water weevil",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice water weevil",
+        "pesticide": "Carbofuran"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice water weevil",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grasses",
+        "pest": "rice water weevil",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wild rice",
+        "pest": "rice water weevil",
+        "pesticide": "Carbofuran"
+    },
+    {
+        "crop": "wild rice",
+        "pest": "rice water weevil",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wild rice",
+        "pest": "rice water weevil",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "rice",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rice",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "grasses",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "grasses",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grasses",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "cereals",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "cereals",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "cereals",
+        "pest": "salurnis marginella guerr",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "wheat",
+        "pest": "sawfly",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "wheat",
+        "pest": "sawfly",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "wheat",
+        "pest": "sawfly",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "barley",
+        "pest": "sawfly",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "barley",
+        "pest": "sawfly",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "barley",
+        "pest": "sawfly",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "sawfly",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "sawfly",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "sawfly",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "chilli",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "chilli",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "chilli",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "mango",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "mango",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "mango",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cotton",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "scirtothrips dorsalis hood",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "grasses",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Clothianidin"
+    },
+    {
+        "crop": "grasses",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Clothianidin"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Clothianidin"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "sericaorient alismots chulsky",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "small brown plant hopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "small brown plant hopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rice",
+        "pest": "small brown plant hopper",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "wheat",
+        "pest": "small brown plant hopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "small brown plant hopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "small brown plant hopper",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "barley",
+        "pest": "small brown plant hopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "barley",
+        "pest": "small brown plant hopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "barley",
+        "pest": "small brown plant hopper",
+        "pesticide": "Acephate"
+    },
+    {
+        "crop": "soybean",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "soybean",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "soybean",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "cotton",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "cotton",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "groundnut",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "groundnut",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Cypermethrin"
+    },
+    {
+        "crop": "groundnut",
+        "pest": "spilosoma obliqua",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "rice",
+        "pest": "stem borer",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "rice",
+        "pest": "stem borer",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "rice",
+        "pest": "stem borer",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "maize",
+        "pest": "stem borer",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "maize",
+        "pest": "stem borer",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "maize",
+        "pest": "stem borer",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "mango",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "mango",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "mango",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "orchards",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "orchards",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "orchards",
+        "pest": "sternochetus frigidus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "tarnished plant bug",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "tarnished plant bug",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "tarnished plant bug",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "strawberry",
+        "pest": "tarnished plant bug",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "strawberry",
+        "pest": "tarnished plant bug",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "strawberry",
+        "pest": "tarnished plant bug",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "tarnished plant bug",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "tarnished plant bug",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "tarnished plant bug",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "sugarcane",
+        "pest": "termite",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "sugarcane",
+        "pest": "termite",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "sugarcane",
+        "pest": "termite",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "maize",
+        "pest": "termite",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "termite",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "termite",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "wheat",
+        "pest": "termite",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "termite",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "termite",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "maize",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "wheat",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "sugarcane",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "sugarcane",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "sugarcane",
+        "pest": "termite odontotermes (rambur)",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "citrus",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "citrus",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "citrus",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "lemon",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "lemon",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "lemon",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "mandarin",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Malathion"
+    },
+    {
+        "crop": "mandarin",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "mandarin",
+        "pest": "tetradacus c bactrocera minax",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "alfalfa",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "clover",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "clover",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "clover",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "forage legumes",
+        "pest": "therioaphis maculata buckton",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "onion",
+        "pest": "thrips",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "onion",
+        "pest": "thrips",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "onion",
+        "pest": "thrips",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "tomato",
+        "pest": "thrips",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "tomato",
+        "pest": "thrips",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "tomato",
+        "pest": "thrips",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "thrips",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "cotton",
+        "pest": "thrips",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "thrips",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "citrus",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "tea",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "tea",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "tea",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "coffee",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "coffee",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "coffee",
+        "pest": "toxoptera aurantii",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "citrus",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "citrus",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "lemon",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "lemon",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "lemon",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "orange",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "orange",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "orange",
+        "pest": "toxoptera citricidus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "tomato",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "tomato",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "tomato",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cucumber",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "cucumber",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "cucumber",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "trialeurodes vaporariorum",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "citrus",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "citrus",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "unaspis yanonensis",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "grapes",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "grapes",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Organophosphates"
+    },
+    {
+        "crop": "grapes",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Organophosphates"
+    },
+    {
+        "crop": "vine plants",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "ornamental vines",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "ornamental vines",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Organophosphates"
+    },
+    {
+        "crop": "ornamental vines",
+        "pest": "viteus vitifoliae",
+        "pesticide": "Neonicotinoids"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat blossom midge",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat blossom midge",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat blossom midge",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat blossom midge",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat blossom midge",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat blossom midge",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "rye",
+        "pest": "wheat blossom midge",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rye",
+        "pest": "wheat blossom midge",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rye",
+        "pest": "wheat blossom midge",
+        "pesticide": "Lambda-cyhalothrin"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "oats",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "oats",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "oats",
+        "pest": "wheat phloeothrips",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat sawfly",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat sawfly",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wheat sawfly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat sawfly",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat sawfly",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "barley",
+        "pest": "wheat sawfly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rye",
+        "pest": "wheat sawfly",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "rye",
+        "pest": "wheat sawfly",
+        "pesticide": "Acetamiprid"
+    },
+    {
+        "crop": "rye",
+        "pest": "wheat sawfly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "white backed plant hopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "rice",
+        "pest": "white backed plant hopper",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "rice",
+        "pest": "white backed plant hopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "grasses",
+        "pest": "white backed plant hopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "grasses",
+        "pest": "white backed plant hopper",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "grasses",
+        "pest": "white backed plant hopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "white backed plant hopper",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "white backed plant hopper",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "maize",
+        "pest": "white backed plant hopper",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "apple",
+        "pest": "white margined moth",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "apple",
+        "pest": "white margined moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "apple",
+        "pest": "white margined moth",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "white margined moth",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "white margined moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "ornamentals",
+        "pest": "white margined moth",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "white margined moth",
+        "pesticide": "Chlorantraniliprole"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "white margined moth",
+        "pesticide": "Spinosad"
+    },
+    {
+        "crop": "forest trees",
+        "pest": "white margined moth",
+        "pesticide": "Bacillus thuringiensis"
+    },
+    {
+        "crop": "tomato",
+        "pest": "whitefly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "tomato",
+        "pest": "whitefly",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "tomato",
+        "pest": "whitefly",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "cotton",
+        "pest": "whitefly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cotton",
+        "pest": "whitefly",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "cotton",
+        "pest": "whitefly",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "whitefly",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "whitefly",
+        "pesticide": "Thiamethoxam"
+    },
+    {
+        "crop": "cabbage",
+        "pest": "whitefly",
+        "pesticide": "Pyrethroids"
+    },
+    {
+        "crop": "potato",
+        "pest": "wireworm",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "potato",
+        "pest": "wireworm",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "potato",
+        "pest": "wireworm",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "maize",
+        "pest": "wireworm",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "wireworm",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "maize",
+        "pest": "wireworm",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wireworm",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wireworm",
+        "pesticide": "Imidacloprid"
+    },
+    {
+        "crop": "wheat",
+        "pest": "wireworm",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "apple",
+        "pest": "xylotrechus",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "apple",
+        "pest": "xylotrechus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "apple",
+        "pest": "xylotrechus",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "pear",
+        "pest": "xylotrechus",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "pear",
+        "pest": "xylotrechus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "pear",
+        "pest": "xylotrechus",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "xylotrechus",
+        "pesticide": "Methoxyfenozide"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "xylotrechus",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "fruit trees",
+        "pest": "xylotrechus",
+        "pesticide": "Fipronil"
+    },
+    {
+        "crop": "maize",
+        "pest": "yellow cutworm",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "maize",
+        "pest": "yellow cutworm",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "maize",
+        "pest": "yellow cutworm",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "wheat",
+        "pest": "yellow cutworm",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "wheat",
+        "pest": "yellow cutworm",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "wheat",
+        "pest": "yellow cutworm",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "yellow cutworm",
+        "pesticide": "Chlorpyrifos"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "yellow cutworm",
+        "pesticide": "Methomyl"
+    },
+    {
+        "crop": "vegetables",
+        "pest": "yellow cutworm",
+        "pesticide": "Carbaryl"
+    },
+    {
+        "crop": "chilli",
+        "pest": "yellow mite",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "chilli",
+        "pest": "yellow mite",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "chilli",
+        "pest": "yellow mite",
+        "pesticide": "Fenazaquin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "yellow mite",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "cotton",
+        "pest": "yellow mite",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "cotton",
+        "pest": "yellow mite",
+        "pesticide": "Fenazaquin"
+    },
+    {
+        "crop": "tea",
+        "pest": "yellow mite",
+        "pesticide": "Spiromesifen"
+    },
+    {
+        "crop": "tea",
+        "pest": "yellow mite",
+        "pesticide": "Abamectin"
+    },
+    {
+        "crop": "tea",
+        "pest": "yellow mite",
+        "pesticide": "Fenazaquin"
+    }
+]
