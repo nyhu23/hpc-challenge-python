@@ -1,72 +1,159 @@
 from flask import Flask, request, render_template_string
 import json
+import os
 
 app = Flask(__name__)
 
-# Load dataset
-with open("data.json") as f:
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(BASE_DIR, "pesticides.json")
+
+with open(file_path, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-# HTML Template
+def extract_pest_crop(user_input):
+    user_input = user_input.lower()
+    found_pest = ""
+    found_crop = ""
+
+    for item in data:
+        if item["pest"] in user_input:
+            found_pest = item["pest"]
+        if item["crop"] in user_input:
+            found_crop = item["crop"]
+
+    return found_pest, found_crop
+
+def find_match(user_input):
+    pest, crop = extract_pest_crop(user_input)
+    results = []
+
+    if pest and crop:
+        for item in data:
+            if item["pest"] == pest and item["crop"] == crop:
+                results.append(item["pesticide"])
+
+    if not results and pest:
+        for item in data:
+            if item["pest"] == pest:
+                results.append(item["pesticide"])
+
+    return pest, crop, list(set(results))
+
 html = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pest-Pesticide Finder</title>
-    <style>
-        body { font-family: Arial; margin: 40px; }
-        input { padding: 8px; width: 300px; }
-        button { padding: 8px; }
-        .result { margin-top: 20px; background: #f0f0f0; padding: 15px; }
-    </style>
+<title>Plant Protection Database</title>
+<style>
+body { font-family: Arial; margin:0; background:#f3f3f3; }
+
+.top-bar {
+    background:#a6b91a;
+    padding:15px;
+    font-size:24px;
+    color:white;
+}
+
+.nav {
+    background:#6b2e1f;
+    color:white;
+    padding:10px;
+}
+
+.container {
+    width:80%;
+    margin:20px auto;
+    background:white;
+    padding:20px;
+}
+
+.search-box {
+    display:flex;
+    gap:10px;
+    margin-bottom:20px;
+}
+
+input {
+    flex:1;
+    padding:10px;
+    font-size:16px;
+}
+
+button {
+    padding:10px;
+    background:#6b2e1f;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover {
+    background:#4e2116;
+}
+
+.result-row {
+    padding:10px;
+    border-bottom:1px solid #ddd;
+}
+
+.no-result {
+    color:red;
+    margin-top:10px;
+}
+</style>
 </head>
+
 <body>
 
-<h2>🌱 Pest & Pesticide Recommendation System</h2>
+<div class="top-bar">Plant Protection Database</div>
+<div class="nav">Home > Authorisations</div>
+
+<div class="container">
 
 <form method="post">
-    <input type="text" name="query" placeholder="e.g. aphid on apple">
-    <button type="submit">Search</button>
+<div class="search-box">
+<input type="text" name="query" placeholder="e.g. aphids on apple" required>
+<button type="submit">Search</button>
+</div>
 </form>
 
-{% if result %}
-<div class="result">
-    <h3>Result:</h3>
-    <p>{{ result }}</p>
+{% if results %}
+{% for item in results %}
+<div class="result-row">
+<b>Pest:</b> {{ pest }} <br>
+<b>Crop:</b> {{ crop if crop else "Not specified" }} <br>
+<b>Pesticide:</b> {{ item }}
 </div>
+{% endfor %}
+{% elif searched %}
+<div class="no-result">No match found</div>
 {% endif %}
+
+</div>
 
 </body>
 </html>
 """
 
-# Matching function
-def find_match(user_input):
-    user_input = user_input.lower()
-
-    matches = []
-
-    for item in data:
-        if item["crop"] in user_input and item["pest"] in user_input:
-            matches.append(
-                f"{item['pesticide']} (Dosage: {item['dosage']})"
-            )
-
-    if matches:
-        return "<br>".join(matches)
-    else:
-        return "❌ No matching pesticide found."
-
-# Route
 @app.route("/", methods=["GET", "POST"])
 def home():
-    result = None
+    results = None
+    pest = ""
+    crop = ""
+    searched = False
 
     if request.method == "POST":
         user_input = request.form["query"]
-        result = find_match(user_input)
+        pest, crop, results = find_match(user_input)
+        searched = True
 
-    return render_template_string(html, result=result)
+    return render_template_string(
+        html,
+        results=results,
+        pest=pest,
+        crop=crop,
+        searched=searched
+    )
 
 if __name__ == "__main__":
     app.run(debug=True)
